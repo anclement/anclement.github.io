@@ -16,10 +16,9 @@
 title: Andrew Clement's Blog
 email: anclement@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is ranting and ravings from my brain. Writing in my journey to becoming a C-Level
+  
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.anclement.com" # the base hostname & protocol for your site
-twitter_username: AndrewNClement
+url: "http://anclement.github.io" # the base hostname & protocol for your site
 github_username:  anclement
 
 # Build settings
