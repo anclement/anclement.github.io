@@ -2,8 +2,9 @@
 layout: post
 title:  "Welcome to Andrews Blog"
 date:   2017-02-21 23:12:01 -0500
-categories: jekyll update
+categories: update
 ---
-Hello, My name is Andrew Clement. Welcome to my blog. 
+Welcome,
+I figured it was time I started a blog. I will be using this blog to conuronical my experience of growing my profesional experience.
 
 

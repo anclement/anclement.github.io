@@ -5,21 +5,20 @@
     <description></description>
     <link>http://anclement.github.io/</link>
     <atom:link href="http://anclement.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 23 Feb 2017 16:10:34 -0600</pubDate>
-    <lastBuildDate>Thu, 23 Feb 2017 16:10:34 -0600</lastBuildDate>
+    <pubDate>Thu, 23 Feb 2017 17:11:10 -0600</pubDate>
+    <lastBuildDate>Thu, 23 Feb 2017 17:11:10 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>Welcome to Andrews Blog</title>
-        <description>&lt;p&gt;Hello, My name is Andrew Clement. Welcome to my blog.&lt;/p&gt;
+        <description>&lt;p&gt;Welcome,
+I figured it was time I started a blog. I will be using this blog to conuronical my experience of growing my profesional experience.&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 21 Feb 2017 22:12:01 -0600</pubDate>
-        <link>http://anclement.github.io/jekyll/update/2017/02/21/welcome-to-andrew.html</link>
-        <guid isPermaLink="true">http://anclement.github.io/jekyll/update/2017/02/21/welcome-to-andrew.html</guid>
+        <link>http://anclement.github.io/update/2017/02/21/welcome-to-andrew.html</link>
+        <guid isPermaLink="true">http://anclement.github.io/update/2017/02/21/welcome-to-andrew.html</guid>
         
-        
-        <category>jekyll</category>
         
         <category>update</category>
         
