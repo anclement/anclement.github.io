@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Pi Day"
+date:   2017-03-14 23:12:01 -0500
+categories: update
+---
+
+![Pi Zero]({{ site.url }}/assets/PiZero.jpg)
+
+
+In honor of Pi Day, I want share a quick post.
+ I recently purchased two Raspberry Pi Zero W devices. If you are unaware Raspberry Pi is a small ARM powered devices that is a tinkers best friend.
+
+ TO Be Continued.
+
+
+
+![Pi Baker Screenshot 1]({{ site.url }}/assets/PiBaker1.png)
