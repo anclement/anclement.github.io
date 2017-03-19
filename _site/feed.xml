@@ -5,8 +5,8 @@
     <description></description>
     <link>http://anclement.github.io/</link>
     <atom:link href="http://anclement.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 18 Mar 2017 13:18:04 -0500</pubDate>
-    <lastBuildDate>Sat, 18 Mar 2017 13:18:04 -0500</lastBuildDate>
+    <pubDate>Sat, 18 Mar 2017 19:30:24 -0500</pubDate>
+    <lastBuildDate>Sat, 18 Mar 2017 19:30:24 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -14,26 +14,38 @@
         <description>&lt;p&gt;&lt;img src=&quot;http://anclement.github.io/assets/PiZero.jpg&quot; alt=&quot;Pi Zero&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In honor of Pi Day, I want share a quick post.
- I recently purchased two Raspberry Pi Zero W devices. If you are unaware Raspberry Pi is a small ARM powered devices that is a tinkers best friend.&lt;/p&gt;
+ I recently purchased two Raspberry Pi Zero W devices. If you are unaware Raspberry Pi is a small ARM powered devices that is a tinkers best friend.
+The Zero W device recently added Bluetooth and Wifi to the device. I purchased two of them to set them up using the tool PiBaker.&lt;/p&gt;
 
-&lt;p&gt;TO Be Continued.&lt;/p&gt;
+&lt;p&gt;Pi Baker is a simple tool to do configuration for the device once the image is written to the SD card, such as the Wifi Network password or enabling VNC. Below are screenshots of the setup.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://anclement.github.io/assets/PiBaker1.png&quot; alt=&quot;Pi Baker Screenshot 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://anclement.github.io/assets/PiBaker2.png&quot; alt=&quot;Pi Baker Screenshot 2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://anclement.github.io/assets/PiBaker3.png&quot; alt=&quot;Pi Baker Screenshot 3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://anclement.github.io/assets/PiBaker4.png&quot; alt=&quot;Pi Baker Screenshot 4&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://anclement.github.io/assets/PiBaker5.png&quot; alt=&quot;Pi Baker Screenshot 5&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://anclement.github.io/assets/PiBaker6.png&quot; alt=&quot;Pi Baker Screenshot 6&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I will be expanding on this post shortly. :D&lt;/p&gt;
 </description>
         <pubDate>Tue, 14 Mar 2017 23:12:01 -0500</pubDate>
-        <link>http://anclement.github.io/update/2017/03/14/PI-Day.html</link>
-        <guid isPermaLink="true">http://anclement.github.io/update/2017/03/14/PI-Day.html</guid>
+        <link>http://anclement.github.io/raspberrypi/2017/03/14/PI-Day.html</link>
+        <guid isPermaLink="true">http://anclement.github.io/raspberrypi/2017/03/14/PI-Day.html</guid>
         
         
-        <category>update</category>
+        <category>RaspberryPi</category>
         
       </item>
     
       <item>
         <title>Welcome to Andrews Blog</title>
         <description>&lt;p&gt;Welcome,
-I figured it was time I started a blog. I will be using this blog to conuronical my experience of growing my profesional experience.&lt;/p&gt;
-
+I figured it was time I started a blog. I will be using this blog to write about my experiences.&lt;/p&gt;
 </description>
         <pubDate>Tue, 21 Feb 2017 22:12:01 -0600</pubDate>
         <link>http://anclement.github.io/update/2017/02/21/welcome-to-andrew.html</link>

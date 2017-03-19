@@ -2,7 +2,7 @@
 layout: post
 title:  "Pi Day"
 date:   2017-03-14 23:12:01 -0500
-categories: update
+categories: RaspberryPi
 ---
 
 ![Pi Zero]({{ site.url }}/assets/PiZero.jpg)
@@ -10,9 +10,22 @@ categories: update
 
 In honor of Pi Day, I want share a quick post.
  I recently purchased two Raspberry Pi Zero W devices. If you are unaware Raspberry Pi is a small ARM powered devices that is a tinkers best friend.
+The Zero W device recently added Bluetooth and Wifi to the device. I purchased two of them to set them up using the tool PiBaker.
 
- TO Be Continued.
-
+Pi Baker is a simple tool to do configuration for the device once the image is written to the SD card, such as the Wifi Network password or enabling VNC. Below are screenshots of the setup.
 
 
 ![Pi Baker Screenshot 1]({{ site.url }}/assets/PiBaker1.png)
+
+![Pi Baker Screenshot 2]({{ site.url }}/assets/PiBaker2.png)
+
+![Pi Baker Screenshot 3]({{ site.url }}/assets/PiBaker3.png)
+
+![Pi Baker Screenshot 4]({{ site.url }}/assets/PiBaker4.png)
+
+![Pi Baker Screenshot 5]({{ site.url }}/assets/PiBaker5.png)
+
+![Pi Baker Screenshot 6]({{ site.url }}/assets/PiBaker6.png)
+
+
+I will be expanding on this post shortly. :D
