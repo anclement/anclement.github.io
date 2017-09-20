@@ -1,0 +1,185 @@
+/*google font */
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,700);
+
+
+/*rewrite to be like this
+.mdl-demo #features h4, #features h5 {
+  margin-bottom: 16px;
+}
+*/
+
+/* Project Calc*/
+.projectCalc.mdl-card {
+  width: 320px;
+  height: 320px;
+}
+.projectCalc > .mdl-card__title {
+  color: #000000 ;
+    height: 155px;
+  background:
+    url('/WebSiteAsset/Icons/calculator.png') bottom right 15% no-repeat #FFFF00;
+}
+/* End Project Calc */
+
+	/* SmartHome Project Style */
+.shproject.mdl-card {
+  width: 320px;
+  height: 320px;
+}
+.shproject > .mdl-card__title {
+  color: #000000;
+height: 155px;
+  background:
+    url('/WebSiteAsset/Icons/wifi.png') bottom right 15% no-repeat #FFFF00;
+}
+/*End Smarthome Project style*/
+
+
+/*Project Location */
+.projectLoc.mdl-card {
+  width: 320px;
+  height: 320px;
+}
+.projectLoc > .mdl-card__title {
+  color: #000000;
+      height: 155px;
+  background:
+    url('/WebSiteAsset/Icons/crosshairs-gps.png') bottom right 15% no-repeat #FFFF00;
+}
+/*End Project Location*/
+
+
+/*Project Star Wars */
+.StarWars.mdl-card {
+  width: 320px;
+  height: 320px;
+}
+.StarWars > .mdl-card__title {
+  color: #000000;
+      height: 155px;
+  background:
+    /*url('/WebSiteAsset/Icons/---') */ bottom right 15% no-repeat #FFFF00;
+}
+
+/*End Star Wars/
+
+/*LeaderShape */
+
+.LeaderShape.mdl-card {
+  width: 320px;
+}
+.LeaderShape > .mdl-card__title {
+  color: #000000;
+     height: 155px;
+ background:
+    /* url('/WebSiteAsset/Icons/LeaderShape_black_LG.null') */bottom right 15% no-repeat #FFFF00;
+}
+
+/*End LeaderShape*/
+
+
+/*FSL */
+
+.FSL.mdl-card {
+  width: 320px;
+  height: 320px;
+
+}
+.FSL > .mdl-card__title {
+  color: #000000;
+      height: 100px;
+  background:
+    /*url('/WebSiteAsset/Icons/FSL.null') */ bottom right 15% no-repeat #FFFF00;
+}
+
+
+/*End FSL*/
+
+/*UIFI */
+
+.UIFI.mdl-card {
+  width: 320px;
+  height: 320px;
+
+}
+.UIFI > .mdl-card__title {
+  color: #000000;
+      height: 100px;
+  background:
+  /*  url('/WebSiteAsset/Icons/uifi.null')*/ bottom right 15% no-repeat #FFFF00;
+}
+
+
+/*EndUIFI*/
+
+
+/*SixSig */
+
+.SSig.mdl-card {
+  width: 320px;
+  height: 320px;
+
+}
+.SSig > .mdl-card__title {
+  color: #000000;
+      height: 155px;
+  background:
+  /*  url('/WebSiteAsset/Icons/SSC.null')*/ bottom right 5% no-repeat #FFFF00;
+}
+
+
+/*End SixSig*/
+
+/*FCC */
+
+.FCC.mdl-card {
+  width: 320px;
+  height: 320px;
+
+}
+.FCC > .mdl-card__title {
+  color: #000000;
+      height: 155px;
+  background:
+    /*url('/WebSiteAsset/Icons/free-code-camp-logo.svg')*/ bottom right 5% no-repeat #FFFF00;
+     background-size: 40px ;
+    background-repeat: no-repeat;
+}
+
+/*End FCC*/
+
+/*Setup */
+
+.Setup.mdl-card {
+  width: 320px;
+  height: 320px;
+
+}
+.Setup > .mdl-card__title {
+  color: #000000;
+      height: 155px;
+  background:
+  /*  url('/WebSiteAsset/Icons/Chrome.png')*/ bottom right 5% no-repeat #FFFF00;
+     background-size: 40px ;
+    background-repeat: no-repeat;
+}
+
+/*End Setup*/
+
+/*Currently working on */
+
+.Working.mdl-card {
+  width: 320px;
+  height: 320px;
+
+}
+.Working > .mdl-card__title {
+  color: #000000;
+      height: 155px;
+  background:
+  /*  url('/WebSiteAsset/Icons/free-code-camp-logo.svg') */bottom right 5% no-repeat #FFFF00;
+     background-size: 40px ;
+    background-repeat: no-repeat;
+}
+
+/*End Currently Working On*/
